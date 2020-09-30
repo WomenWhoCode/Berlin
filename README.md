@@ -5,7 +5,7 @@ It is supposed to help anyone looking to learn and improve their coding skills t
 
 ## How can I contribute?
 
-We love contributions! 
+We love contributions!
 We would like to extend this collection further to contain all kinds of resources related to all programming languages, frameworks, general programming knowledge, and IT careers.
 
 Your contributions are more than welcome. If you have anything you liked and found useful, please share it with us:
@@ -21,12 +21,13 @@ If you do start working on an issue, it is recommended to comment on the issue t
 ### Contribution Step by Step Guide
 
 ##### Create a github account
-To add your contribution to this repository you will need a **Github account**. 
+To add your contribution to this repository you will need a **Github account**.
 You can sign up for free at [https://github.com/join](https://github.com/join).
 
 ##### Create a fork
 If you have an account and you are signed in, you can create your own **fork** of this repo. (Learn more about forks [here](https://guides.github.com/activities/forking/)).
 Click the button labelled "Fork" in the top right corner.
+![](images/fork-button.png)
 You might see a popup that asks you where to create the fork if you are part of any organization - select your personal account.
 
 This means you create your own copy of the repository where you are allowed to freely add and edit anything. When you commit changes and save your edits, the changes are made to your forked repo.
@@ -41,7 +42,8 @@ So how do your changes get updated into the original repository?
 You basically "propose" your changes to us, the owners of the original repository, by creating a **pull request** (often abbreviated as "PR").
 
 In your forked repository, once you have finished making your edits, select the "Pull Requests" tab, then click the button "New Pull Request" (green button in the top right).
-You will see a new view where you can select the repositories and branches. 
+You will see a new view where you can select the repositories and branches.
+![](images/create-pr.png)
 By default it should show WomenWhoCode/Berlin as the base repositiory and your fork (<YourUsername>/Berlin) as the "head repository".
 The branch for the base should be master and for your repo it is the branch where you made the changes (if you did not create a branch, it will be master).
 
@@ -50,21 +52,23 @@ Ideally, you can also add at least a little bit of detail to the description of 
 When you are done, submit the pull request by clicking the green "Create Pull Request" button.
 
 We receive a notification about the new pull request and can have a look at the changes you proposed.
-We can then **merge** the changes from your PR to the original repository. 
+We can then **merge** the changes from your PR to the original repository.
 This means they will become part of the original repositiory and you will officially be a contributor.
+You may delete your fork afterwards or keep it around for your next contribution.
+![](images/delete-fork.png)
 Congratulations, you have shared your knowledge & tips with our community and potentially the whole world!
 
 ### Tips
 
 To make sure everything goes smoothly, here are a few more tips:
-- If you create Pull Requests, try to make sure that your fork is up to date with the master branch of this repo. 
+- If you create Pull Requests, try to make sure that your fork is up to date with the master branch of this repo.
 - If you intend to work on a task where we have an open issue, please make a comment on the issue to let everyone know what you are doing.
 - If you need personal support or have any questions, join our slack channel [WWCode-hacknights](http://bit.ly/WWCHackEveningsSlack) (What is [Slack](https://slack.com/resources/slack-101/what-is-slack)?)
 
 ### Content Guidelines
 
 We are happy about any contributions: tutorials, guides, (free) (e)books, video courses, online exercises, ...
-Take a look and see if your resource fits any of the existing categories and/or sub-categories. 
+Take a look and see if your resource fits any of the existing categories and/or sub-categories.
 If you think the appropriate category is missing, add it.
 
 If you are not sure where your resource belongs, you can also [create an issue](https://github.com/WomenWhoCode/Berlin/issues/new) to ask about it. Or ask in the our [slack channel](http://bit.ly/WWCHackEveningsSlack).
