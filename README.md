@@ -43,8 +43,8 @@ You basically "propose" your changes to us, the owners of the original repositor
 
 In your forked repository, once you have finished making your edits, select the "Pull Requests" tab, then click the button "New Pull Request" (green button in the top right).
 You will see a new view where you can select the repositories and branches.
-![](images/create-pr.png)
-By default it should show WomenWhoCode/Berlin as the base repositiory and your fork (<YourUsername>/Berlin) as the "head repository".
+![](images/open-pr.png)
+By default it should show `WomenWhoCode/Berlin` as the base repositiory and your fork (`\<YourUsername\>/Berlin`) as the "head repository".
 The branch for the base should be master and for your repo it is the branch where you made the changes (if you did not create a branch, it will be master).
 
 Continue by giving your pull request a title that helps us to know what changes it contains.
