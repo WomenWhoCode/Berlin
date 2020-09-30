@@ -30,13 +30,34 @@ An easy leanguage to start coding, since it runs right your browser. You can cre
 
   * Coursera set of courses for all levels: https://www.coursera.org/specializations/scala
   * Small exercises https://www.scala-exercises.org/
-  
+
 ### Bash
 
   * Online book about bash language: https://github.com/denysdovhan/bash-handbook
   * Games for learning security concepts: http://overthewire.org/wargames/
 
+### CSS
+
+  * Learning with fun and do 5 projects using HTML and CSS: https://www.freecodecamp.org/learn (Take responsive web design Certification course)
+  * YouTube channel to learn it: https://www.youtube.com/watch?v=1Rs2ND1ryYc
+  * This website will teach how to do any design using CSS: https://css-tricks.com
+  * Full guide to learn CSS from basic: https://cssreference.io/
+
+
 ## Frameworks & Libraries
+
+### Website Frameworks
+
+  * A framework which will make your very easy and effective: https://getbootstrap.com/ (bootstrap)
+  * This framework will give your website a material look: https://materializecss.com/
+  * Use font awesome to use free icons: https://fontawesome.com/
+  * It will let you animate your website without using CSS from scratch: https://animate.style/
+  * Use JavaScript animations on your website: https://animejs.com/
+
+### Python Frameworks
+
+  * Easiest framework to learn for back-end development: https://www.djangoproject.com/ (Django)
+  * Framework for back-end development: https://flask.palletsprojects.com/ (Flask)
 
 ## Career
 
@@ -47,6 +68,8 @@ An easy leanguage to start coding, since it runs right your browser. You can cre
   * Cracking the coding interview at hackerrank: https://www.hackerrank.com/interview/interview-preparation-kit
   * AdventOfCode: 24 Challenges to be done before Christmas (or after!): https://adventofcode.com/
   * Solo Learn, mobile app to learn on-the-go: https://www.sololearn.com
+  * Codechef, the best website to practice your coding skills with monthly challenges: https://www.codechef.com/
+  * Leetcode, best website to learn and to practice for coding interviews: https://leetcode.com/
 
 
 
@@ -75,7 +98,6 @@ Projects
 
 * Large publicly available data sources:
   * https://www.springboard.com/blog/free-public-data-sets-data-science-project/
-  
-* Big collection of Deep Learning datasets for vision, NLP, audio, recommendation & more: 
+
+* Big collection of Deep Learning datasets for vision, NLP, audio, recommendation & more:
   * https://skymind.ai/wiki/open-datasets
-  
