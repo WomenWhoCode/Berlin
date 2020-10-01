@@ -15,7 +15,17 @@ Learning Resources
   * Tutorials for beginners (with online editor): https://www.w3schools.com/css/
   * Learn how to use flexbox for layouts by playing: https://flexboxfroggy.com/ 
   * MDN Web Docs: https://developer.mozilla.org/en-US/docs/Web/CSS
-
+  * CSS Reference: https://cssreference.io/
+  * CSS Dev Docs: https://devdocs.io/css/
+  * CSS Reference Codrops: https://tympanus.net/codrops/css_reference/
+  * CSS Grid by Wes Bos: https://cssgrid.io/
+  * Learn CSS : https://www.codecademy.com/learn/learn-css
+  * YouTube Tutorials: 
+   [CSS Crash Course For Absolute Beginners By Traversy Media](https://www.youtube.com/watch?v=yfoY53QXEnI&feature=youtu.be)
+   [CSS Tutorial for Beginners](https://www.youtube.com/watch?v=8gNrZ4lAnAw)
+   [CSS Animation - DevTips](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
+   [CSS Flexbox](https://www.youtube.com/watch?v=Y8zMYaD1bz0&list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG)
+   [CSS Grid](https://www.youtube.com/watch?v=jV8B24rSN5o)
 ### Javascript
 
 An easy leanguage to start coding, since it runs right your browser. You can create from websites to robust applications (both client and server-side).
@@ -26,6 +36,11 @@ An easy leanguage to start coding, since it runs right your browser. You can cre
   * The world of JavaScript in a website: https://github.com/sorrycc/awesome-javascript
   * JavaScript Language in-depth: https://github.com/getify/You-Dont-Know-JS
   * JavaScript 30, 30 challenges using vanilla JS with HTML and CSS: https://javascript30.com
+  * Javascript Essentials - Udemy : https://www.udemy.com/course/javascript-essentials/
+  * Intro to Javascript: https://www.udacity.com/course/intro-to-javascript--ud803
+  * Book- Eloquent Javascript : https://eloquentjavascript.net/
+  * Book - Javascript: The Good Parts: https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
+  * Youtube Tutorials: https://www.youtube.com/watch?v=dlfrWbYk1v0&list=PLRAV69dS1uWTSu9cVg8jjXW8jndOYYJPP
 
 ### Python
   * Programming for Everybody: https://www.coursera.org/learn/python (easily digestible intro for people who are new to coding)
