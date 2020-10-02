@@ -7,7 +7,6 @@ It is designed to help anyone who is looking to learn and improve their coding s
 
 We love contributions!
 We would like to extend this collection further to contain all kinds of resources related to all programming languages, frameworks, general programming knowledge, and IT careers.
->>>>>>> master
 
 Your contributions are more than welcome. If you have anything you liked and found useful, please share it with us:
 
@@ -34,14 +33,12 @@ Click the button labelled "Fork" in the top right corner, this adds a copy of th
 ![](images/fork-button.png)
 You might see a popup that asks you where to create the fork if you are part of any organization - select your personal account.
 
-
 This means you have your own copy of the repository which you are allowed to freely edit and add to. When you commit changes and save your edits, the changes are made to your fork.
 
 If all the contributions were only spread across different individuals' forks, it would not be very useful.
 So how do your changes get updated into the original repository? You create a pull request.
 
 ##### Create a Pull Request
-
 You "propose" your changes to us, the owners of the original repository, by creating a **pull request** (often abbreviated as "PR").
 
 In your forked repository, once you have finished making your edits, select the "Pull Requests" tab, then click the button "New Pull Request" (green button in the top right).
@@ -70,7 +67,6 @@ To make sure everything goes smoothly, here are a few more tips:
 - If you need personal support or have any questions, join our slack channel [WWCode-hacknights](http://bit.ly/WWCHackEveningsSlack) (What is [Slack](https://slack.com/resources/slack-101/what-is-slack)?)
 
 ### Content Guidelines
-
 
 We are happy to include any contributions: tutorials, guides, (free) (e)books, video courses, online exercises, ...
 Take a look and see if your resource fits any of the existing categories and/or sub-categories. 
