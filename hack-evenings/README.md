@@ -6,8 +6,20 @@ Learning Resources
 ### Git & Console
 
   * Site to help you practice git and specific text editor commands in a gamified way: https://www.shortcutfoo.com/
+  * Git guides for beginners to advanced: https://www.atlassian.com/git/tutorials
 
 ## Programming Languages
+
+### CSS
+
+  * Tutorials for beginners (with online editor): https://www.w3schools.com/css/
+  * Learn how to use flexbox for layouts by playing: https://flexboxfroggy.com/ 
+  * MDN Web Docs: https://developer.mozilla.org/en-US/docs/Web/CSS
+  * CSS Tricks: https://css-tricks.com/
+  * Smashing Magazine Guide to CSS Layout: https://www.smashingmagazine.com/guides/css-layout/
+  * Rachel Adams' Grid by Example: https://gridbyexample.com/
+  * Jens Simmons' LayoutLand: https://www.youtube.com/c/LayoutLand/videos
+  * Una Kravets' Designing in the Browser: https://www.youtube.com/watch?v=YK8GZBx3hpg&list=PLNYkxOF6rcIDI0QtJvW6vKonTxn6azCsD
 
 ### Javascript
 

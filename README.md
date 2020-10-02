@@ -71,6 +71,8 @@ To make sure everything goes smoothly, here are a few more tips:
 We are happy to include any contributions: tutorials, guides, (free) (e)books, video courses, online exercises, ...
 Take a look and see if your resource fits any of the existing categories and/or sub-categories. 
 
+We are happy about any contributions: tutorials, guides, (free) (e)books, video courses, online exercises, ...
+Take a look and see if your resource fits any of the existing categories and/or sub-categories.
 If you think the appropriate category is missing, add it.
 
 If you are not sure where your resource belongs, you can also [create an issue](https://github.com/WomenWhoCode/Berlin/issues/new) to ask about it. Or ask in the our [slack channel](http://bit.ly/WWCHackEveningsSlack).
