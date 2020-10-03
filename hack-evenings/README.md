@@ -56,8 +56,8 @@ An easy leanguage to start coding, since it runs right your browser. You can cre
 
 ### Python Frameworks
 
-  * Easiest framework to learn for back-end development: https://www.djangoproject.com/ (Django)
-  * Framework for back-end development: https://flask.palletsprojects.com/ (Flask)
+  * Django, Easiest framework to learn for back-end development: https://www.djangoproject.com/
+  * Flask, Framework for back-end development: https://flask.palletsprojects.com/
 
 ## Career
 
@@ -68,8 +68,8 @@ An easy leanguage to start coding, since it runs right your browser. You can cre
   * Cracking the coding interview at hackerrank: https://www.hackerrank.com/interview/interview-preparation-kit
   * AdventOfCode: 24 Challenges to be done before Christmas (or after!): https://adventofcode.com/
   * Solo Learn, mobile app to learn on-the-go: https://www.sololearn.com
-  * Codechef, the best website to practice your coding skills with monthly challenges: https://www.codechef.com/
-  * Leetcode, best website to learn and to practice for coding interviews: https://leetcode.com/
+  * Codechef, The best website to practice your coding skills with monthly challenges: https://www.codechef.com/
+  * Leetcode, A website to learn and to practice for coding interviews: https://leetcode.com/
 
 
 
