@@ -15,7 +15,7 @@ An easy leanguage to start coding, since it runs right your browser. You can cre
 
   * Learn by coding: http://codecademy.com/
   * Learn through self-paced coding challenges, build projects: https://www.freecodecamp.com/
-  * Tutorials with exercises using NodeJS: https://nodeschool.io/ (Command-line required)
+  * Tutorials with exercises using NodeJS: [hello](https://nodeschool.io/) (Command-line required)
   * The world of JavaScript in a website: https://github.com/sorrycc/awesome-javascript
   * JavaScript Language in-depth: https://github.com/getify/You-Dont-Know-JS
   * JavaScript 30, 30 challenges using vanilla JS with HTML and CSS: https://javascript30.com
