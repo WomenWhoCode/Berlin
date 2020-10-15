@@ -35,7 +35,7 @@ Learning Resources
 
 ### Javascript
 
-An easy leanguage to start coding, since it runs right your browser. You can create from websites to robust applications (both client and server-side).
+An easy language to start coding, since it runs right your browser. You can create from websites to robust applications (both client and server-side).
 
   * Learn by coding: http://codecademy.com/
   * Learn through self-paced coding challenges, build projects: https://www.freecodecamp.com/
