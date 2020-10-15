@@ -49,6 +49,7 @@ An easy language to start coding, since it runs right your browser. You can crea
   * Programming for the Web with JavaScript - [edX course](https://www.edx.org/course/programming-for-the-web-with-javascript) (Good explanation of fundamentals and introduction to jQuery/React/JSON)
 
 ### Python
+
   * Programming for Everybody: https://www.coursera.org/learn/python (easily digestible intro for people who are new to coding)
   * Learn by coding: https://www.codecademy.com/learn/learn-python (practical and straightforward)
   * Tutorial, exercises and other resources: https://www.learnpython.org/
@@ -60,6 +61,7 @@ An easy language to start coding, since it runs right your browser. You can crea
   * Small exercises https://www.scala-exercises.org/
 
 ### SQL
+
   * Learn SQL through self-paced lessons: [codecademy](https://www.codecademy.com/learn/learn-sql)
   * Intro to SQL: [KhanAcademy](https://www.khanacademy.org/computing/computer-programming/sql)
 
