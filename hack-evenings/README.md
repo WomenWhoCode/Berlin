@@ -35,7 +35,7 @@ Learning Resources
 
 ### Javascript
 
-An easy leanguage to start coding, since it runs right your browser. You can create from websites to robust applications (both client and server-side).
+An easy language to start coding, since it runs right your browser. You can create from websites to robust applications (both client and server-side).
 
   * Learn by coding: http://codecademy.com/
   * Learn through self-paced coding challenges, build projects: https://www.freecodecamp.com/
@@ -46,8 +46,10 @@ An easy leanguage to start coding, since it runs right your browser. You can cre
   * Javascript Essentials - Udemy : https://www.udemy.com/course/javascript-essentials/
   * Intro to Javascript: https://www.udacity.com/course/intro-to-javascript--ud803
   * Book - Eloquent Javascript : https://eloquentjavascript.net/
+  * Programming for the Web with JavaScript - [edX course](https://www.edx.org/course/programming-for-the-web-with-javascript) (Good explanation of fundamentals and introduction to jQuery/React/JSON)
 
 ### Python
+
   * Programming for Everybody: https://www.coursera.org/learn/python (easily digestible intro for people who are new to coding)
   * Learn by coding: https://www.codecademy.com/learn/learn-python (practical and straightforward)
   * Tutorial, exercises and other resources: https://www.learnpython.org/
@@ -57,7 +59,12 @@ An easy leanguage to start coding, since it runs right your browser. You can cre
 
   * Coursera set of courses for all levels: https://www.coursera.org/specializations/scala
   * Small exercises https://www.scala-exercises.org/
-  
+
+### SQL
+
+  * Learn SQL through self-paced lessons: [codecademy](https://www.codecademy.com/learn/learn-sql)
+  * Intro to SQL: [KhanAcademy](https://www.khanacademy.org/computing/computer-programming/sql)
+
 ### Bash
 
   * Online book about bash language: https://github.com/denysdovhan/bash-handbook
@@ -74,6 +81,7 @@ An easy leanguage to start coding, since it runs right your browser. You can cre
   * Cracking the coding interview at hackerrank: https://www.hackerrank.com/interview/interview-preparation-kit
   * AdventOfCode: 24 Challenges to be done before Christmas (or after!): https://adventofcode.com/
   * Solo Learn, mobile app to learn on-the-go: https://www.sololearn.com
+  * Challenges in various languages ranging from improving fundamentals to testing problem-solving skills: [Codewars](https://www.codewars.com/dashboard)
 
 
 
