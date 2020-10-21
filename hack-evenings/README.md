@@ -31,6 +31,7 @@ Learning Resources
   * Rachel Adams' Grid by Example: https://gridbyexample.com/
   * Jens Simmons' LayoutLand: https://www.youtube.com/c/LayoutLand/videos
   * Una Kravets' Designing in the Browser: https://www.youtube.com/watch?v=YK8GZBx3hpg&list=PLNYkxOF6rcIDI0QtJvW6vKonTxn6azCsD
+  * Introduction to CSS (interactive screencasts, free, but signup is required for full access): https://scrimba.com/learn/introtocss
 
 
 ### Javascript
