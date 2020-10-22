@@ -48,7 +48,7 @@ An easy leanguage to start coding, since it runs right your browser. You can cre
 
 ### Website Frameworks
 
-  * A framework which will make your very easy and effective: https://getbootstrap.com/ (bootstrap)
+  * A framework which will make your very easy and effective: https://getbootstrap.com/
   * This framework will give your website a material look: https://materializecss.com/
   * Use font awesome to use free icons: https://fontawesome.com/
   * It will let you animate your website without using CSS from scratch: https://animate.style/
