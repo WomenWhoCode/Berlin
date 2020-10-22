@@ -39,7 +39,6 @@ An easy leanguage to start coding, since it runs right your browser. You can cre
 ### CSS
 
   * Learning with fun and do 5 projects using HTML and CSS: https://www.freecodecamp.org/learn (Take responsive web design Certification course)
-  * YouTube channel to learn it: https://www.youtube.com/watch?v=1Rs2ND1ryYc
   * This website will teach how to do any design using CSS: https://css-tricks.com
   * Full guide to learn CSS from basic: https://cssreference.io/
 
