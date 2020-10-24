@@ -13,14 +13,14 @@ Learning Resources
 ### CSS
 
   * Tutorials for beginners (with online editor): https://www.w3schools.com/css/
-  * Learn how to use flexbox for layouts by playing: https://flexboxfroggy.com/ 
+  * Learn how to use flexbox for layouts by playing: https://flexboxfroggy.com/
   * MDN Web Docs: https://developer.mozilla.org/en-US/docs/Web/CSS
   * CSS Reference: https://cssreference.io/
   * CSS Dev Docs: https://devdocs.io/css/
   * CSS Reference Codrops: https://tympanus.net/codrops/css_reference/
   * CSS Grid by Wes Bos: https://cssgrid.io/
   * Learn CSS: https://www.codecademy.com/learn/learn-css
-  * YouTube Tutorials: 
+  * YouTube Tutorials:
    [CSS Crash Course For Absolute Beginners By Traversy Media](https://www.youtube.com/watch?v=yfoY53QXEnI&feature=youtu.be)
    [CSS Tutorial for Beginners](https://www.youtube.com/watch?v=8gNrZ4lAnAw)
    [CSS Animation - DevTips](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
@@ -84,6 +84,16 @@ An easy language to start coding, since it runs right your browser. You can crea
   * Challenges in various languages ranging from improving fundamentals to testing problem-solving skills: [Codewars](https://www.codewars.com/dashboard)
 
 
+## Staying Up to Date
+
+### Newsletters
+
+Collection of interesting articles about programming in general & working in Tech: http://www.pointer.io/
+General programming news, interview puzzles & humor: https://cassidoo.co/newsletter
+News from the React ecosystem: https://reactdom.com/newsletter/
+Specific newsletters for a range of programming languages and topics: https://cooperpress.com/publications/
+New tools and libraries for web development: https://webtoolsweekly.com/
+
 
 Projects
 =========================
@@ -98,7 +108,7 @@ Projects
   * starting points for open source beginners: https://opensource.com/life/16/1/6-beginner-open-source
   * list of projects which have curated tasks specifically for new contributors: http://up-for-grabs.net/#/
 
-* Automate anything :)   
+* Automate anything :)
   * Some ideas (python): https://automatetheboringstuff.com/
 
 
@@ -110,7 +120,7 @@ Projects
 
 * Large publicly available data sources:
   * https://www.springboard.com/blog/free-public-data-sets-data-science-project/
-  
-* Big collection of Deep Learning datasets for vision, NLP, audio, recommendation & more: 
+
+* Big collection of Deep Learning datasets for vision, NLP, audio, recommendation & more:
   * https://skymind.ai/wiki/open-datasets
-  
+
