@@ -33,7 +33,21 @@ Learning Resources
   * Una Kravets' Designing in the Browser: https://www.youtube.com/watch?v=YK8GZBx3hpg&list=PLNYkxOF6rcIDI0QtJvW6vKonTxn6azCsD
   * Introduction to CSS (interactive screencasts, free, but signup is required for full access): https://scrimba.com/learn/introtocss
 
+### Java
 
+  * The Java Tutorials @ORACLE (JDK 8): https://docs.oracle.com/javase/tutorial/
+  * An article about Java versions, features, and licensing: https://www.marcobehler.com/guides/a-guide-to-java-versions-and-features
+  * A collection of free tutorials for Java, Eclipse, and more: https://www.vogella.com/tutorials/
+    * This one for Java starters: https://www.vogella.com/tutorials/JavaIntroduction/article.html
+  * Eclipse is a very popular IDE for Java - this is an extensive tutorial on how to use it with all its benefits: https://www.vogella.com/tutorials/Eclipse/article.html#overview-of-the-eclipse-open-source-project
+  * Eclipse shortcuts: https://www.vogella.com/tutorials/EclipseShortcuts/article.html
+  * And some more free tutorials on Java and OOP from the beginning:
+    * GeeksForGeeks: https://www.geeksforgeeks.org/java/
+    * TutorialsPoint: https://www.tutorialspoint.com/java/index.htm
+    * javaTpoint: https://www.javatpoint.com/java-tutorial
+
+
+  
 ### Javascript
 
 An easy language to start coding, since it runs right your browser. You can create from websites to robust applications (both client and server-side).
