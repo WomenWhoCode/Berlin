@@ -75,6 +75,17 @@ An easy language to start coding, since it runs right your browser. You can crea
   * Coursera set of courses for all levels: https://www.coursera.org/specializations/scala
   * Small exercises https://www.scala-exercises.org/
 
+### PHP
+  
+  * PHP (& MySQL) YouTube video series: [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o)
+  * PHP YouTube Tutorial: [Derek Banas](https://youtu.be/NihZYkNpslE)
+  * PHP YouTube Tutorial Series: [Dani Krossing (mmtuts)](https://www.youtube.com/playlist?list=PL0eyrZgxdwhxhsuT_QAqfi-NNVAlV4WIP)
+  * Learn PHP from Scratch: [Educative](https://www.educative.io/courses/learn-php-from-scratch)
+  * PHP For Beginners YouTube Tutorial: [Code With Dary](https://www.youtube.com/playlist?list=PLFHz2csJcgk_fFEWydZJLiXpc9nB1qfpi)
+  * PHP OOP (Object Oriented) YouTube video series: [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNpT-yVAYxNWOmxjxL51Hy)
+  * PHP OOP (Object Oriented) YouTube Tutorial Series: [Dani Krossing (mmtuts)](https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
+  * Object-Oriented PHP For Beginners YouTube Tutorial: [Code With Dary](https://www.youtube.com/playlist?list=PLFHz2csJcgk-7hgKrjUa_IP5YCLE4vJhV)
+
 ### SQL
 
   * Learn SQL through self-paced lessons: [codecademy](https://www.codecademy.com/learn/learn-sql)
